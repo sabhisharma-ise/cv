@@ -1,0 +1,37 @@
+/**************************************TAG SELECTORS******************************************/
+
+/* Color taken from ColorHunt website*/
+body {
+    background-color: #EAF6F6;
+}
+
+/* Dotted and grey-coloured tiny horizontal rule (it's beautiful hr) */
+hr {
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%; 
+}
+
+/* To Make my photo smaller */
+img {
+    height: 180px;
+    width: 180px;
+}
+
+/* To create a hover effect  */
+hr:hover {
+    border-color: gold;
+}
+
+.starhover:hover {
+    background-color: #5F9DF7;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #3F0071;
+}
