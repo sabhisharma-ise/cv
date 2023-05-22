@@ -4,7 +4,9 @@ This repository contains the source code for my CV website, which I created duri
 ## Getting Started
 To get started, you will need to clone this repository to your local machine. You can do this using the following command:
 
-`git clone https://github.com/<your-username>/cv.git`
+```
+git clone https://github.com/<your-username>/cv.git
+```
 
 Once you have cloned the repository, you can open the index.html file in a web browser to view the website.
 
